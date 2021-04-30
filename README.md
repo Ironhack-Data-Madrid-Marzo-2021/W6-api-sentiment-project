@@ -10,7 +10,7 @@ In this project, you will practice:
 - MongoDB 
 - NLTK (sentiment analysis)
 
-You can create your API with SQL or with Mongodb. Feel free to choose the one you want.
+*You can create your API with SQL or with Mongodb. Feel free to choose the one you want.*
 
 ## Project Goals
 
