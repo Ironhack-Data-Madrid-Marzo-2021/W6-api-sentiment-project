@@ -6,8 +6,11 @@ For that, you will create your own API. This API will be able to receive informa
 In this project, you will practice:
 
 - Flask (API creation)
+- SQL
 - MongoDB 
 - NLTK (sentiment analysis)
+
+You can create your API with SQL or with Mongodb. Feel free to choose the one you want.
 
 ## Project Goals
 
